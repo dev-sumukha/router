@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import ShoppingIndex from "./shopping/ShoppingIndex";
-import SPAComponent from "./components/SPAComponent";
+// import SPAComponent from "./components/SPAComponent";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>

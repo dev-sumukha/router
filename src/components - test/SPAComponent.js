@@ -10,10 +10,10 @@ export default function SPAComponent() {
               <Link to="/html">HTML</Link>
             </li>
             <li>
-              <Link to="css">CSS</Link>
+              <Link to="/css">CSS</Link>
             </li>
             <li>
-              <Link to="js">Javascript</Link>
+              <Link to="/js">Javascript</Link>
             </li>
           </ul>
         </nav>
